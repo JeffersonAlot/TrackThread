@@ -1,0 +1,11 @@
+C:\Users\Alot.260603\Source\Repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.exe.config
+C:\Users\Alot.260603\Source\Repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.exe
+C:\Users\Alot.260603\Source\Repos\FrmBasicThread\FrmBasicThread\bin\Debug\FrmBasicThread.pdb
+C:\Users\Alot.260603\Source\Repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.AssemblyReference.cache
+C:\Users\Alot.260603\Source\Repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alot.260603\Source\Repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.frmTrackThread.resources
+C:\Users\Alot.260603\Source\Repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.Properties.Resources.resources
+C:\Users\Alot.260603\Source\Repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.GenerateResource.cache
+C:\Users\Alot.260603\Source\Repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.csproj.CoreCompileInputs.cache
+C:\Users\Alot.260603\Source\Repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.exe
+C:\Users\Alot.260603\Source\Repos\FrmBasicThread\FrmBasicThread\obj\Debug\FrmBasicThread.pdb
